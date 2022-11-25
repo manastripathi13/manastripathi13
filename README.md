@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manastripathi13
-- 👀 I’m interested in in learning different aspects of Data Science and machine learning
+- 👀 I’m interested in learning different aspects of Data Science and machine learning
 - 🌱 I’m currently learning Data science course from google
 - 💞️ I’m looking to collaborate as a Data Scientist , in creating various models and training data sets for better end results.
 - 📫 How to reach me you can reach out to me on linkedIn (manastripathi13) or through my email (tmanas138@gmail.com)
